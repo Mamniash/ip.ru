@@ -5,7 +5,7 @@ export const sendToTelegram = async (
 ) => {
 	const botToken = '8161696582:AAHZxsaPggaUncruMMoG1pIjTXleCNAUWTw'
 	const chatId = '-1002271508122'
-        const threadId = 267 // ID темы "0→1 ответы на лендинг"
+        const threadId = 267 // ID темы "От 0 до 1 ответы на лендинг"
 
 	// Формирование сообщения для Telegram
         const message = `

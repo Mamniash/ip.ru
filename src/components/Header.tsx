@@ -22,7 +22,7 @@ const Header = () => {
 					className='flex items-center'
 				>
                                         <Link href='#head' className='flex items-center'>
-                                                <span className='text-xl font-bold italic'>0→1</span>
+                                                <span className='text-xl font-bold italic'>От 0 до 1</span>
                                         </Link>
 				</motion.div>
 

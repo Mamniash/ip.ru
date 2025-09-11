@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-        title: '0→1',
+        title: 'От 0 до 1',
         description:
                 'Платформа и комьюнити для новых ИП: шаги после регистрации, налоги и первые клиенты.',
         icons: {
