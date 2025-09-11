@@ -42,17 +42,17 @@ return (
 					onClose={() => setIsModalOpen(false)}
 				/>
 			</div>
-			<div className='md:w-1/2 mb-8 md:mb-0 flex justify-center'>
+                        <div className='md:w-1/2 mb-8 md:mb-0 flex justify-center'>
                                 <Image
-                                        src='https://images.unsplash.com/photo-1598257006458-0b907f36e334?auto=format&fit=crop&w=800&q=80'
+                                        src='/images/main.jpg'
                                         alt='Предприниматель изучает материалы'
                                         width={600}
                                         height={400}
                                         className='rounded-xl shadow-lg'
                                 />
-			</div>
-		</div>
-	</section>
+                        </div>
+                </div>
+        </section>
 )
 }
 
